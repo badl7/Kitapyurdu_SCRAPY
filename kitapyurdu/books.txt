@@ -1,0 +1,400 @@
+1: **************************************************
+Kitap Adı : İyileşen Evliliğim
+Yazar :  Hatice Kübra Tongar
+Yayınevi : HAYY KİTAP
+2: **************************************************
+Kitap Adı : Var Mısın? & Güçlü Bir Yaşam İçin Öneriler
+Yazar :  Doğan Cüceloğlu
+Yayınevi : KRONİK KİTAP
+3: **************************************************
+Kitap Adı : Momo
+Yazar :  Michael Ende
+Yayınevi : PEGASUS YAYINLARI
+4: **************************************************
+Kitap Adı : Fareler ve İnsanlar
+Yazar :  John Steinbeck
+Yayınevi : SEL YAYINCILIK
+5: **************************************************
+Kitap Adı : Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Yazar : Prof. Dr. İlber Ortaylı
+Yayınevi : KRONİK KİTAP
+6: **************************************************
+Kitap Adı : Şeker Portakalı (Ciltsiz)
+Yazar :  Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+7: **************************************************
+Kitap Adı : Kayıp Tanrılar Ülkesi
+Yazar :  Ahmet Ümit
+Yayınevi : YAPI KREDİ YAYINLARI
+8: **************************************************
+Kitap Adı : Benim Zürafam Uçabilir
+Yazar :  Mert Arık
+Yayınevi : TİMAŞ ÇOCUK YAYINLARI
+9: **************************************************
+Kitap Adı : Kırmızı Pazartesi
+Yazar :  Gabriel Garcia Marquez
+Yayınevi : CAN YAYINLARI
+10: **************************************************
+Kitap Adı : Hayvan Çiftliği (Ciltsiz)
+Yazar :  George Orwell
+Yayınevi : CAN YAYINLARI
+11: **************************************************
+Kitap Adı : Körlük
+Yazar :  Jose Saramago
+Yayınevi : KIRMIZI KEDİ YAYINEVİ
+12: **************************************************
+Kitap Adı : Tüfek, Mikrop ve Çelik  (Karton Kapak) 
+Yazar :  Jared Diamond
+Yayınevi : PEGASUS YAYINLARI
+13: **************************************************
+Kitap Adı : Serenad (Karton Kapak)
+Yazar :  Zülfü Livaneli
+Yayınevi : DOĞAN KİTAP
+14: **************************************************
+Kitap Adı : Zamir
+Yazar :  Hakan Günday
+Yayınevi : DOĞAN KİTAP
+15: **************************************************
+Kitap Adı : Yüzyıllık Yalnızlık (Ciltsiz)
+Yazar :  Gabriel Garcia Marquez
+Yayınevi : CAN YAYINLARI
+16: **************************************************
+Kitap Adı : İyileşen Çocukluğum İyileşen Anneliğim
+Yazar :  Hatice Kübra Tongar
+Yayınevi : HAYY KİTAP
+17: **************************************************
+Kitap Adı : Tutunamayanlar / Bütün Eserleri 1
+Yazar :  Oğuz Atay
+Yayınevi : İLETİŞİM YAYINLARI
+18: **************************************************
+Kitap Adı : Saatleri Ayarlama Enstitüsü
+Yazar :  Ahmet Hamdi Tanpınar
+Yayınevi : DERGAH YAYINLARI
+19: **************************************************
+Kitap Adı : Simyacı (Ciltsiz)
+Yazar :  Paulo Coelho
+Yayınevi : CAN YAYINLARI
+20: **************************************************
+Kitap Adı : Kürk Mantolu Madonna
+Yazar :  Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+21: **************************************************
+Kitap Adı : Okçu'nun Yolu
+Yazar :  Paulo Coelho
+Yayınevi : CAN YAYINLARI
+22: **************************************************
+Kitap Adı : Huzursuzluk
+Yazar :  Zülfü Livaneli
+Yayınevi : DOĞAN KİTAP
+23: **************************************************
+Kitap Adı : Pal Sokağı Çocukları
+Yazar :  Ferenc Molnar
+Yayınevi : YAPI KREDİ YAYINLARI
+24: **************************************************
+Kitap Adı : Efsun
+Yazar :  Selahattin Demirtaş
+Yayınevi : DİPNOT YAYINLARI
+25: **************************************************
+Kitap Adı : Pia Mater
+Yazar :  Serkan Karaismailoğlu
+Yayınevi : ELMA YAYINEVİ
+26: **************************************************
+Kitap Adı : İçimizdeki Şeytan
+Yazar :  Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+27: **************************************************
+Kitap Adı : Çavdar Tarlasında Çocuklar
+Yazar :  J. D. Salinger
+Yayınevi : YAPI KREDİ YAYINLARI
+28: **************************************************
+Kitap Adı : Ben, Kirke
+Yazar :  Madeline Miller
+Yayınevi : İTHAKİ YAYINLARI
+29: **************************************************
+Kitap Adı : Uğultulu Tepeler
+Yazar :  Emily Bronte
+Yayınevi : CAN YAYINLARI
+30: **************************************************
+Kitap Adı : İnce Memed 1
+Yazar :  Yaşar Kemal
+Yayınevi : YAPI KREDİ YAYINLARI
+31: **************************************************
+Kitap Adı : 1984
+Yazar :  George Orwell
+Yayınevi : CAN YAYINLARI
+32: **************************************************
+Kitap Adı : Dura Mater
+Yazar :  Serkan Karaismailoğlu
+Yayınevi : ELMA YAYINEVİ
+33: **************************************************
+Kitap Adı : Sineklerin Tanrısı (Karton Kapak)
+Yazar :  William Golding
+Yayınevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+34: **************************************************
+Kitap Adı : Bağırmayan Anneler
+Yazar :  Hatice Kübra Tongar
+Yayınevi : HAYY KİTAP
+35: **************************************************
+Kitap Adı : Kuyucaklı Yusuf
+Yazar :  Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+36: **************************************************
+Kitap Adı : Arachnoid Mater
+Yazar :  Serkan Karaismailoğlu
+Yayınevi : ELMA YAYINEVİ
+37: **************************************************
+Kitap Adı : Masumiyet Müzesi
+Yazar :  Orhan Pamuk
+Yayınevi : YAPI KREDİ YAYINLARI
+38: **************************************************
+Kitap Adı : Gerçek Tıp & Yitik Şifanın İzinde
+Yazar :  Aidin Salih
+Yayınevi : YİTİK ŞİFA
+39: **************************************************
+Kitap Adı : Dune
+Yazar :  Frank Herbert
+Yayınevi : İTHAKİ YAYINLARI
+40: **************************************************
+Kitap Adı : Bunun Adı Findel
+Yazar :  Andrew Clements
+Yayınevi : GÜNIŞIĞI KİTAPLIĞI
+41: **************************************************
+Kitap Adı : Kardeşimin Hikayesi (Karton Kapak)
+Yazar :  Zülfü Livaneli
+Yayınevi : DOĞAN KİTAP
+42: **************************************************
+Kitap Adı : Puslu Kıtalar Atlası
+Yazar :  İhsan Oktay Anar
+Yayınevi : İLETİŞİM YAYINLARI
+43: **************************************************
+Kitap Adı : Veba Geceleri
+Yazar :  Orhan Pamuk
+Yayınevi : YAPI KREDİ YAYINLARI
+44: **************************************************
+Kitap Adı : Haritada Kaybolmak
+Yazar :  Vladimir Tumanov
+Yayınevi : GÜNIŞIĞI KİTAPLIĞI
+45: **************************************************
+Kitap Adı : Cesur Yeni Dünya
+Yazar :  Aldous Huxley
+Yayınevi : İTHAKİ YAYINLARI
+46: **************************************************
+Kitap Adı : Bilinmeyen Bir Kadının Mektubu (Karton Kapak)
+Yazar :  Stefan Zweig
+Yayınevi : TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+47: **************************************************
+Kitap Adı : Allah’ım Ben Geldim
+Yazar :  Hatice Kübra Tongar
+Yayınevi : HAYY KİTAP
+48: **************************************************
+Kitap Adı : Hayat Kaybettiğin Yerden Başlar
+Yazar :  Miraç Çağrı Aktaş
+Yayınevi : İNDİGO KİTAP
+49: **************************************************
+Kitap Adı : Siddhartha (Ciltsiz)
+Yazar :  Hermann Hesse
+Yayınevi : CAN YAYINLARI
+50: **************************************************
+Kitap Adı : Veronika Ölmek İstiyor
+Yazar :  Paulo Coelho
+Yayınevi : CAN YAYINLARI
+51: **************************************************
+Kitap Adı : Beş Şehir
+Yazar :  Ahmet Hamdi Tanpınar
+Yayınevi : DERGAH YAYINLARI
+52: **************************************************
+Kitap Adı : Fahrenheit 451
+Yazar :  Ray Bradbury
+Yayınevi : İTHAKİ YAYINLARI
+53: **************************************************
+Kitap Adı : Diriliş Neslinin Amentüsü
+Yazar :  Sezai Karakoç
+Yayınevi : DİRİLİŞ YAYINLARI
+54: **************************************************
+Kitap Adı : Aylak Adam
+Yazar :  Yusuf Atılgan
+Yayınevi : CAN YAYINLARI
+55: **************************************************
+Kitap Adı : Kraliçeyi Kurtarmak
+Yazar :  Vladimir Tumanov
+Yayınevi : GÜNIŞIĞI KİTAPLIĞI
+56: **************************************************
+Kitap Adı : 30 Günde 10 Yıl
+Yazar : Prof. Dr. Yavuz Yörükoğlu
+Yayınevi : HAYY KİTAP
+57: **************************************************
+Kitap Adı : Delifişek
+Yazar :  Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+58: **************************************************
+Kitap Adı : Son Ada
+Yazar :  Zülfü Livaneli
+Yayınevi : DOĞAN KİTAP
+59: **************************************************
+Kitap Adı : Balıkçı ve Oğlu
+Yazar :  Zülfü Livaneli
+Yayınevi : İNKILAP KİTABEVİ
+60: **************************************************
+Kitap Adı : İslamın Dirilişi
+Yazar :  Sezai Karakoç
+Yayınevi : DİRİLİŞ YAYINLARI
+61: **************************************************
+Kitap Adı : Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman
+Yazar :  Jostein Gaarder
+Yayınevi : PAN YAYINCILIK
+62: **************************************************
+Kitap Adı : Uzun Hikaye
+Yazar :  Mustafa Kutlu
+Yayınevi : DERGAH YAYINLARI
+63: **************************************************
+Kitap Adı : İnsanın Anlam Arayışı
+Yazar :  Viktor Emil Frankl
+Yayınevi : OKUYAN US YAYIN
+64: **************************************************
+Kitap Adı : Sırça Köşk
+Yazar :  Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+65: **************************************************
+Kitap Adı : Güneşi Uyandıralım
+Yazar :  Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+66: **************************************************
+Kitap Adı : Gece Yarısı Kütüphanesi
+Yazar :  Matt Haig
+Yayınevi : DOMİNGO YAYINEVİ
+67: **************************************************
+Kitap Adı : KPSS ALES DGS Ezberbozan Paragraf Soru Bankası
+Yazar :  Kolektif 
+Yayınevi : PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+68: **************************************************
+Kitap Adı : Pardayanlar 1 / Pardayanlar
+Yazar :  Michel Zevaco
+Yayınevi : DEDALUS KİTAP
+69: **************************************************
+Kitap Adı : Yanlış Hayat Doğru Yaşanmaz
+Yazar :  Ethem Emin Nemutlu
+Yayınevi : OLİMPOS YAYINLARI
+70: **************************************************
+Kitap Adı : Kapra Felsefe Seti (10 Kitap)
+Yazar :  Sigmund Freud
+Yayınevi : KAPRA YAYINCILIK
+71: **************************************************
+Kitap Adı : İnsan Olmak
+Yazar :  Rene Descartes
+Yayınevi : METİS YAYINLARI
+72: **************************************************
+Kitap Adı : Yitik Cennet
+Yazar :  Cicero 
+Yayınevi : DİRİLİŞ YAYINLARI
+73: **************************************************
+Kitap Adı : Kriptonun Sırları
+Yazar :  Tommasso Campanella
+Yayınevi : TUTİ KİTAP
+74: **************************************************
+Kitap Adı : Ya Tahammül Ya Sefer
+Yazar :  Francis Bacon
+Yayınevi : DERGAH YAYINLARI
+75: **************************************************
+Kitap Adı : Geliştiren Anne-Baba
+Yazar :  Niccolo Machiavelli
+Yayınevi : REMZİ KİTABEVİ
+76: **************************************************
+Kitap Adı : Kitaplardan Korkan Çocuk
+Yazar :  Platon(Eflatun) 
+Yayınevi : CAN ÇOCUK YAYINLARI
+77: **************************************************
+Kitap Adı : Kur’an Meal-Tefsir (Ciltli)
+Yazar :  William James
+Yayınevi : HALİÇ ÜNİVERSİTESİ YAYINLARI
+78: **************************************************
+Kitap Adı : Bu Ülke
+Yazar :  Engin Geçtan
+Yayınevi : İLETİŞİM YAYINLARI
+79: **************************************************
+Kitap Adı : Herkes İçin Siyer 2.Cilt & Peygamberimiz'in (s.a.v.) Hayatı / Medine Dönemi
+Yazar :  Sezai Karakoç
+Yayınevi : PROFİL KİTAP
+80: **************************************************
+Kitap Adı : Geç Kalan
+Yazar :  Beste Uyanık Kapukaya
+Yayınevi : DOĞAN KİTAP
+81: **************************************************
+Kitap Adı : Daha Adil Bir Dünya Mümkün
+Yazar :  Recep Tayyip Erdoğan
+Yayınevi : TURKUVAZ KİTAP
+82: **************************************************
+Kitap Adı : Herkes İçin Siyer 1.Cilt & Peygamberimiz'in (s.a.v.) Hayatı / Mekke Dönemi
+Yazar :  Muhammed Emin Yıldırım
+Yayınevi : PROFİL KİTAP
+83: **************************************************
+Kitap Adı : İnci
+Yazar :  Bekir Develi
+Yayınevi : SEL YAYINCILIK
+84: **************************************************
+Kitap Adı : Plüton’un Dünya Umurunda Değil
+Yazar :  John Steinbeck
+Yayınevi : KÜSURAT YAYINLARI
+85: **************************************************
+Kitap Adı : Çetin Ceviz & Sıra Dışı Bir Ödev Hikayesi
+Yazar :  Şeyma Çekici
+Yayınevi : FOM KİTAP
+86: **************************************************
+Kitap Adı : 2022 DHBT ve KPSS ÖABT Din Kültürü ve Ahlak Bilgisi Öğretmenliği Ders Notu
+Yazar :  Sinan Yaşar
+Yayınevi : İSEM YAYINCILIK
+87: **************************************************
+Kitap Adı : Bilinçaltının Gücü & Zihinsel ve Bedensel İyileşme
+Yazar :  Asya Tekin
+Yayınevi : DİYOJEN YAYINCILIK
+88: **************************************************
+Kitap Adı : Eyvah Kitap!
+Yazar :  Joseph Murphy
+Yayınevi : GÜNIŞIĞI KİTAPLIĞI
+89: **************************************************
+Kitap Adı : İnce Memed 2
+Yazar :  Mine Soysal
+Yayınevi : YAPI KREDİ YAYINLARI
+90: **************************************************
+Kitap Adı : 2022 KPSS Coğrafya Tamamı Çözümlü Soru Bankası
+Yazar :  Yaşar Kemal
+Yayınevi : BENİM HOCAM YAYINLARI
+91: **************************************************
+Kitap Adı : Huzur
+Yazar :  Bayram Meral
+Yayınevi : DERGAH YAYINLARI
+92: **************************************************
+Kitap Adı : Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+Yazar :  Ahmet Hamdi Tanpınar
+Yayınevi : AYRINTI YAYINLARI
+93: **************************************************
+Kitap Adı : Yoksulluk İçimizde
+Yazar :  Clarissa P. Estes
+Yayınevi : DERGAH YAYINLARI
+94: **************************************************
+Kitap Adı : Değirmen
+Yazar :  Mustafa Kutlu
+Yayınevi : YAPI KREDİ YAYINLARI
+95: **************************************************
+Kitap Adı : 2022 KPSS Tarih Tamamı Çözümlü Soru Bankası
+Yazar :  Sabahattin Ali
+Yayınevi : BENİM HOCAM YAYINLARI
+96: **************************************************
+Kitap Adı : Kendini Affet & Kendinizle Barışmanın İlk Adımı
+Yazar :  Ramazan Yetgin
+Yayınevi : TİMAŞ YAYINLARI
+97: **************************************************
+Kitap Adı : Yaşamak
+Yazar : Pedagog Adem Güneş
+Yayınevi : JAGUAR KİTAP
+98: **************************************************
+Kitap Adı : Fabrika Ayarı
+Yazar :  Yu Hua 
+Yayınevi : PROFİL KİTAP
+99: **************************************************
+Kitap Adı : İnsan Vücudu Tiyatrosu
+Yazar :  Hayati İnanç
+Yayınevi : DOMİNGO YAYINEVİ
+100: **************************************************
+Kitap Adı : Masal Masal İçinde
+Yazar :  Bekir Develi
+Yayınevi : YAPI KREDİ YAYINLARI
